@@ -1,5 +1,6 @@
 # Fleet-Themes
-third-party support for Fleet themes
+
+third-party support for Fleet (Next-generation IDE by JetBrains)
 
 # Theme List
 
